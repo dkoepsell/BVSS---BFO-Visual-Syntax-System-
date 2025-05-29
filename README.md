@@ -1,6 +1,7 @@
 ---
 title: BFO Visual Syntax System (BVSS)
 ---
+![BVSS](https://github.com/user-attachments/assets/603eac61-0cd3-46b0-bbc2-903de1096378)
 
 # 🧭 BFO Visual Syntax System (BVSS)
 *A General Visual Language for Basic Formal Ontology*
