@@ -128,7 +128,7 @@ Noy, N. F., & Musen, M. A. (2000). PROMPT: Algorithm and tool for automated onto
 Schober, D., et al. (2009). Survey-based naming conventions for use in OBO Foundry ontology development. BMC Bioinformatics, 10(1), 125.
 
 Hitzler, P., et al. (2009). OWL 2 Web Ontology Language Primer (W3C Recommendation). World Wide Web Consortium.
-## 🛠 Planned Tool Support
+## 🛠 Comparison Chart
 
 ![image](https://github.com/user-attachments/assets/f1eb8535-7613-45cf-b169-85665126feaa)
 
