@@ -143,7 +143,8 @@ Domain Portability	Reusable syntax across legal, biomedical, and technical domai
 Pedagogical Clarity	Intuitive for non-experts and students; symbols reinforce definitions	Steep learning curve; semantics are opaque
 Integration with FOL Validation	Combines ontology logic and visual diagnostics	Requires external reasoner and separate validation layer
 Editable Diagram Interface	Designed for authoring and checking as well as browsing	Primarily for browsing or annotation
-![image](https://github.com/user-attachments/assets/07b58883-c373-45d2-b1f3-178243df050e)
+![image](https://github.com/user-attachments/assets/f1eb8535-7613-45cf-b169-85665126feaa)
+
 
 
 - 🧩 PlantUML icon library
