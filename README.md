@@ -130,19 +130,6 @@ Schober, D., et al. (2009). Survey-based naming conventions for use in OBO Found
 Hitzler, P., et al. (2009). OWL 2 Web Ontology Language Primer (W3C Recommendation). World Wide Web Consortium.
 ## 🛠 Planned Tool Support
 
-Feature	BVSS+	Standard Tools (ProtÃ©gÃ©, OWLViz, VOWL)
-Entity Type Differentiation	Distinct icons/shapes for BFO classes (â—, â—Œ, âŸ¶, etc.)	Generic circles and lines; class labels only
-Process vs Continuant Distinction	Processes shown as directional arrows; continuants as persistent shapes	No visual separation of occurrents and continuants
-Role/Disposition Modeling	Clear visual syntax for roles, functions, and dispositions	Requires manual ontology inspection or annotations
-Visual Validation Feedback	Violations (e.g., domain/range errors) shown with red lines/tooltips	No visual signaling of logical violations
-Temporal Modeling Support	Timeline, occurrence flow, and realization arcs supported	Minimal or no support for time-indexed flows
-Explicit Legend and Visual Grammar	Legend encodes semantic rules and visual mappings	Legend often absent or disconnected from ontology logic
-Error Visibility (e.g., orphan nodes)	Orphans/mislinks visible in real-time layout	Errors buried in logs or query results
-Inference Traceability	Paths from roles to outcomes visible and interpretable	Requires reasoning engine and domain knowledge to trace
-Domain Portability	Reusable syntax across legal, biomedical, and technical domains	Visuals don't translate well across domains
-Pedagogical Clarity	Intuitive for non-experts and students; symbols reinforce definitions	Steep learning curve; semantics are opaque
-Integration with FOL Validation	Combines ontology logic and visual diagnostics	Requires external reasoner and separate validation layer
-Editable Diagram Interface	Designed for authoring and checking as well as browsing	Primarily for browsing or annotation
 ![image](https://github.com/user-attachments/assets/f1eb8535-7613-45cf-b169-85665126feaa)
 
 
